@@ -7,7 +7,8 @@
 
 // Passos para a integração
 
-// 1
+// 1º criar e adicionar modulo Flutter na pasta principal do projeto
+// comnando para criar modulo: flutter create -t module <module_name>
 
 
 import SwiftUI
